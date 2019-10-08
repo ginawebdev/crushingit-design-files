@@ -1,0 +1,23 @@
+/*****BASE STYLES*****/
+body { 
+	color:#ffffff; 
+	font-family:'Source Code Pro', monospace;
+} 
+#portfolio, #about, #contact { 
+	height:200px; 
+	 }
+/*****GRID*****/
+.full-width {
+	width:1200px;
+	margin:0 auto;
+} 
+.half-width {
+	width:600px;
+	margin:0 auto;
+	float:left;
+}
+.third-width {
+	width:400px;
+	margin:175px; 
+	float:left;
+}
